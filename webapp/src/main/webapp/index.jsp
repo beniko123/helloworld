@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Registration 1 (Tomcat Main Server)</h1>
+    <h1>New User Registration 1 (Mali)</h1>
     <p>
 belco.</p>
     <hr>
